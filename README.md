@@ -19,4 +19,4 @@ An instance of "Nouns" called "canAI" (pronounced "*Can I..*").  It has one meth
 | Can I get a publicly shamed comedian? | ``canAI.getA( "publiclyShamedComedian" );`` | "Lenny Bruce" |
 | Can I get an Adventure Time character? | ``canAI.getA("adventureTimeChar");`` | "Lumpy Space Princess" |
 
-#### Note:  If you use one of these in your code, **_kindly suggest new lists_** in the comments section of github, so the file will grow and be more awesome!!  :-)
+#### Note:  If you use one of these in your code, **_kindly suggest new lists_** in the comments section of github, so the file will grow and be more awesome!!  :-)  P.S. I also love github stars, just sayin.
