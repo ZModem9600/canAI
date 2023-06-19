@@ -11,7 +11,7 @@ I make zero assertions as to the veracity or completeness of these lists of thin
 * May change at **any** time.
 
 ## Usage
-An instance of "Nouns" called "canAI" (pronounced "*Can I..*").  It has one method called "getA()", to which you pass a known **noun** from the structor class.
+The class has one method called "getA()", to which you pass a known **noun** from the class' constructor.
 
 | Spoken English | Javascript | Output |
 | ------------- |:-------------:| -----:|
