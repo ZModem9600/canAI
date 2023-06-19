@@ -11,7 +11,7 @@ I make zero assertions as to the veracity or completeness of these lists of thin
 * May change at **any** time.
 
 ## Usage
-An instance of "Nouns" called "canAI" (pronounced "*Can I..*").  It has one method called "getA()", to which you pass a known **noun** from the structor class.
+The class has one method called "getA()", to which you pass a known **noun** from the class' constructor.
 
 | Spoken English | Javascript | Output |
 | ------------- |:-------------:| -----:|
@@ -19,4 +19,4 @@ An instance of "Nouns" called "canAI" (pronounced "*Can I..*").  It has one meth
 | Can I get a publicly shamed comedian? | ``canAI.getA( "publiclyShamedComedian" );`` | "Lenny Bruce" |
 | Can I get an Adventure Time character? | ``canAI.getA("adventureTimeChar");`` | "Lumpy Space Princess" |
 
-#### Note:  If you use one of these in your code, **_kindly suggest new lists_** in the comments section of github, so the file will grow and be more awesome!!  :-)
+#### Note:  If you use one of these in your code, **_kindly suggest new lists_** in the comments section of github, so the file will grow and be more awesome!!  :-)  P.S. I also love github stars, just sayin.
